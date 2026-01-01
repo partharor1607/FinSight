@@ -144,58 +144,6 @@ FinSight – AI-Powered Expense Intelligence Platform/
 4. **Explore Insights**: Check AI-generated insights and trends
 5. **Get Advice**: Review personalized financial recommendations
 
-## File Format Guidelines
-
-### CSV Format
-Your CSV should include columns for:
-- Date (various formats supported)
-- Description
-- Amount
-
-Common column names are automatically detected.
-
-### PDF Format
-Bank statement PDFs are automatically parsed. Ensure your statement includes:
-- Transaction dates
-- Descriptions
-- Amounts
-
-## AI Features
-
-The platform uses OpenAI GPT-3.5-turbo for:
-- Intelligent expense categorization
-- Financial advice generation
-
-If OpenAI API key is not provided, the system falls back to keyword-based categorization.
-
-## Development
-
-### Backend Development
-```bash
-cd backend
-npm run dev  # Uses nodemon for auto-reload
-```
-
-### Frontend Development
-```bash
-cd frontend
-npm run dev  # Vite dev server with hot reload
-```
-
-## Production Build
-
-### Frontend
-```bash
-cd frontend
-npm run build
-```
-
-The built files will be in the `dist/` directory.
-
-## License
-
-ISC
-
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
