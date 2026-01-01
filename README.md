@@ -33,5 +33,17 @@ A comprehensive financial management platform that uses AI to automatically cate
 ### Images : 
 
 <img width="3420" height="2224" alt="image" src="https://github.com/user-attachments/assets/54a6807c-2f8f-4999-b049-16c7cbc7573a" />
+<img width="3408" height="1972" alt="image" src="https://github.com/user-attachments/assets/4ef603cf-2951-4596-94b9-f94a01fd39ca" />
+<img width="3408" height="1972" alt="image" src="https://github.com/user-attachments/assets/8881e1e2-edc6-45fc-bead-0684657715bf" />
+<img width="3408" height="1972" alt="image" src="https://github.com/user-attachments/assets/6d9d77b8-0e79-45db-a075-f36db31a9dc9" />
+<img width="3408" height="1972" alt="image" src="https://github.com/user-attachments/assets/134c5acc-7906-4e70-9ed6-04731a918e2b" />
+<img width="3408" height="1972" alt="image" src="https://github.com/user-attachments/assets/23a6f68f-952a-4ee1-a822-c84f458ca058" />
+<img width="3418" height="2142" alt="image" src="https://github.com/user-attachments/assets/88b31b82-fc78-405f-872d-b9bb7795c07a" />
+
+
+
+
+
+
 
 
