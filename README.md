@@ -29,3 +29,8 @@ A comprehensive financial management platform that uses AI to automatically cate
 - **Recharts**: Data visualization
 - **Vite**: Build tool and dev server
 
+
+Images : 
+
+![Uploading Screenshot 2026-01-01 at 8.06.04 PM.png…]()
+
