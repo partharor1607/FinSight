@@ -30,7 +30,8 @@ A comprehensive financial management platform that uses AI to automatically cate
 - **Vite**: Build tool and dev server
 
 
-Images : 
+### Images : 
 
-![Uploading Screenshot 2026-01-01 at 8.06.04 PM.png…]()
+<img width="3420" height="2224" alt="image" src="https://github.com/user-attachments/assets/54a6807c-2f8f-4999-b049-16c7cbc7573a" />
+
 
