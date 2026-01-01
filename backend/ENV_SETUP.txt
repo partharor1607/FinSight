@@ -1,0 +1,34 @@
+===========================================
+MongoDB Atlas Connection String Setup
+===========================================
+
+Copy the following content to your backend/.env file:
+
+-------------------------------------------
+PORT=5001
+
+# MongoDB Atlas Connection String
+# Password is URL encoded (amit@123A -> amit%40123A) because @ is a special character
+MONGODB_URI=mongodb+srv://Parth:amit%40123A@cluster0.7xkhoyh.mongodb.net/finsight?retryWrites=true&w=majority
+
+# JWT Secret Key (change this to a random string for security)
+JWT_SECRET=your_super_secret_jwt_key_change_this_to_random_string
+
+# OpenAI API Key (optional - system works without it using keyword matching)
+OPENAI_API_KEY=
+
+# Environment
+NODE_ENV=development
+-------------------------------------------
+
+IMPORTANT NOTES:
+1. The password "amit@123A" is URL encoded as "amit%40123A" (the @ becomes %40)
+2. Make sure your IP address is whitelisted in MongoDB Atlas Network Access
+3. After updating .env, restart your backend server
+
+To restart:
+1. Stop the current server (Ctrl+C)
+2. Run: cd backend && node server.js
+
+You should see: "✅ MongoDB connected successfully" and "📡 Connected to MongoDB Atlas (Cloud)"
+
