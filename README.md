@@ -4,7 +4,7 @@ A comprehensive financial management platform that uses AI to automatically cate
 
 ## Features
 
-- 📄 **File Upload**: Upload bank statements in CSV or PDF format
+- 📄 **File Upload**: Upload bank statements in TXT format
 - 🤖 **AI Categorization**: Automatic expense categorization using OpenAI GPT or keyword matching
 - 📊 **Financial Insights**: Monthly trends, category breakdowns, and spending analysis
 - 💡 **AI-Generated Advice**: Personalized financial recommendations based on your spending patterns
