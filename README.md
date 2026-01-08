@@ -47,3 +47,4 @@ A comprehensive financial management platform that uses AI to automatically cate
 
 
 
+# FinSight---Expense-Manager-Platform
